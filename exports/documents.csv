@@ -1,0 +1,5 @@
+﻿document_id,product_id,document_type,title,revision,file_name,status,owner,updated_at
+DOC-GEAR-CAD-001,GEAR-ASSY-100,CAD_DRAWING,Gearbox Assembly CAD Drawing,A,gearbox_assembly_rev_A.step,APPROVED,Engineering,2026-11-04T19:39:52+00:00
+DOC-GEAR-SPEC-001,GEAR-ASSY-100,SPECIFICATION,Gearbox Product Specification,A,gearbox_spec_rev_A.pdf,APPROVED,Engineering,2026-11-04T19:39:52+00:00
+DOC-GEAR-WI-001,GEAR-ASSY-100,WORK_INSTRUCTION,Gearbox Assembly Work Instruction,A,gearbox_work_instruction_rev_A.pdf,APPROVED,Manufacturing Engineering,2026-11-04T19:39:52+00:00
+DOC-PUMP-CAD-001,PUMP-ASSY-200,CAD_DRAWING,Pump Assembly CAD Drawing,A,pump_assembly_rev_A.step,APPROVED,Engineering,2026-11-04T19:39:52+00:00

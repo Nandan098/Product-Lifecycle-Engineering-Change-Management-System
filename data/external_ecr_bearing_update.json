@@ -1,0 +1,12 @@
+{
+  "source_system": "Teamcenter-Sim",
+  "product_id": "GEAR-ASSY-100",
+  "title": "Upgrade bearing to sealed 6205-2RS",
+  "description": "Engineering proposes a sealed bearing to reduce contamination ingress during vehicle operation.",
+  "reason_code": "QUALITY_IMPROVEMENT",
+  "requested_by": "Teamcenter Engineering",
+  "changed_component_id": "BRG-6205",
+  "new_component_id": "BRG-6205-2RS",
+  "new_quantity": 2,
+  "effective_date": "2026-12-01"
+}

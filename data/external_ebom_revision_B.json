@@ -1,0 +1,18 @@
+{
+  "source_system": "Teamcenter-Sim",
+  "approval_status": "APPROVED",
+  "change_reference": "CC-EXT-2026-0042",
+  "change_summary": "Replace standard bearing with sealed 6205-2RS bearing to improve contamination protection.",
+  "product": {
+    "product_id": "GEAR-ASSY-100",
+    "revision": "B"
+  },
+  "components": [
+    {"component_id": "GEAR-IN-01", "quantity": 1, "uom": "EA", "find_number": "0010", "reference_designator": "IN-GEAR"},
+    {"component_id": "GEAR-OUT-01", "quantity": 1, "uom": "EA", "find_number": "0020", "reference_designator": "OUT-GEAR"},
+    {"component_id": "BRG-6205-2RS", "quantity": 2, "uom": "EA", "find_number": "0030", "reference_designator": "BEARING-L/R"},
+    {"component_id": "HOUSING-AL", "quantity": 1, "uom": "EA", "find_number": "0040", "reference_designator": "HOUSING"},
+    {"component_id": "SEAL-01", "quantity": 2, "uom": "EA", "find_number": "0050", "reference_designator": "SEAL-L/R"},
+    {"component_id": "BOLT-M8", "quantity": 8, "uom": "EA", "find_number": "0060", "reference_designator": "FASTENERS"}
+  ]
+}
